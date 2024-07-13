@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Almizan Shaikh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almizanshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="almizanshaikh" /> </p>
 
+<img align ="right" alt="coding" width="400" src="https://github.com/Hanzalashaik/Hanzalashaik/blob/main/Programming-pana.svg">
+
 - 🌱 I’m currently learning **javascript**
 
 - 📫 How to reach me **shaikalmizan49@gmail.com**
