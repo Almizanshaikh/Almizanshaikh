@@ -3,7 +3,7 @@
 
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **AWS-Devops**
 
 - 📫 How to reach me **shaikalmizan49@gmail.com**
 
