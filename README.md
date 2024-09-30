@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS-Devops**
 
-- 📫 How to reach me **shaikalmizan49@gmail.com**
+- 📫 How to reach me **shaikalmizan49@gmail.com** 
 
 - ⚡ Fun fact **I'm b.com student**
 
